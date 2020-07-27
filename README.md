@@ -8,7 +8,7 @@ I have uploaded them to GitHub with his permission.
 #### Please catch up with him at:
 
 Linkedin: https://www.linkedin.com/in/dustin-higgins/<br/>
-GitHub: https://github.com/dohiggins
+GitHub: https://github.com/Dustin5977
 
 ## How did I originally find this?
 Source: https://www.dhb-scripting.com/Forums/posts/t36-Cable-Modem-Power-Cycle-with-Wemo-and-PowerShell<br/>
